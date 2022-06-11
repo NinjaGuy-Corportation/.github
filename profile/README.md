@@ -1,12 +1,2 @@
 ## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-Official Page: [Link](ninjaguy128vietnam.github.io)
--->
+  Welcome to NinjaGuy Corportation! I've been using Github for a looooooooooooooooooooooong time. I starting to use Github on March 2022, with an account named hedgesoft. Hope you can join it to make my organization popular!
